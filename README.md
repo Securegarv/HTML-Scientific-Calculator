@@ -19,4 +19,4 @@ This project was independently developed, drawing inspiration from various onlin
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), allowing for modification and distribution under certain conditions.
+This project is licensed under the MIT License, allowing for modification and distribution under certain conditions.
