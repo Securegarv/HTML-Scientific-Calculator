@@ -15,7 +15,7 @@ To use the calculator, simply clone this repository to your local machine and op
 
 ## Credits
 
-This project was inspired by the tutorial ["Build A Calculator With JavaScript Tutorial"](https://www.youtube.com/watch?v=cGgLHJGyS34) by GreatStackDev Avinash.
+This project was independently developed, drawing inspiration from various online resources and tutorials.
 
 ## License
 
