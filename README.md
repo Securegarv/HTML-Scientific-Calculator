@@ -13,6 +13,12 @@ This is a basic scientific calculator web application built using HTML, CSS, and
 
 To use the calculator, simply clone this repository to your local machine and open the `index.html` file in a web browser. Then, you can start performing calculations using the provided buttons.
 
+## Live Demo
+
+Check out the live demo of the HTML Scientific Calculator by clicking the link below:
+
+[Click Here](https://securegarv.github.io/HTML-Scientific-Calculator/)
+
 ## Credits
 
 This project was independently developed, drawing inspiration from various online resources and tutorials.
